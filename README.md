@@ -4,7 +4,7 @@ This is a project to get an explanation about a device (device type, platform, f
 To work with the bot, you need to get API KEYS for some resources (ABUSEIPDB, SHODAN, MACLOOKUP).
 
 User instructions:
-1. Follow the link.
+1. If the bot is not published, then run the project in your virtual environment.
 2. Activate the bot /start .
 3. Using the bot menu, click the "Hello" button. Then click the "Work" button.
 4. Enter data
